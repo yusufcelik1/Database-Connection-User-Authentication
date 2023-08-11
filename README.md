@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">Junior backend developer in Acun Media Academy</h3>
+<h3 align="center">Junior backend developer at Acun Media Academy</h3>
 <p>This program is a basic console application that offers user registration and login functionalities using a SQL Server database. The program interacts with the user to either allow them to register a new account or log in to an existing account. 
 
 The program starts by prompting the user to choose between registering a new account or logging in with an existing account.
